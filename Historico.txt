@@ -1,0 +1,14 @@
+El integrante 1 ha subido sus archivos correspondientes (vistas).
+El integrante 2 sube sus archivos archivos correspondientes de controlador e index.php.
+El integrante 3 sube el archivo model.php al repositorio compartido.
+El integrante 3 crea el script que hara que se cree la base de datos.
+
+Cada integrante sube al repositorio sus modificaciones y sus archivos .txt
+
+El integrante 1 hace un commit de su archivo inicio.txt
+El integrante 3 hace un commit de su archivo install.txt, install.php y modifica config.php
+
+Ahora el integrante 2 subirá la aplicacion desde gitHub hasta su CDmon y aportará un enlace al proyecto final.
+
+
+
