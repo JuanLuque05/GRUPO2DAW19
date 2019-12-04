@@ -1,0 +1,13 @@
+Proceso para iniciar la producción de codigo.
+
+Una vez leido y comprendido el enunciado de la entrega Práctica 3 de la asignatura de Despliegue.
+
+Al haber decidido el rol de cada uno, nos dirigimos a GitHub para crear un nuevo repositorio llamado GRUPO2DAW19.
+
+Cuando el repositorio sea creado, tendremos que añadir como colaboradores a los compañeros que conforman el grupo.
+
+1.- Juan Luque (JuanLuque05)
+2.- Enrique Molina (enrique8800)
+3.- Miguel Angel Castañeda (WorKeLid)
+
+Los integrantes del grupo aceptan la invitación para el nuevo repositorio creado en gitHub.
