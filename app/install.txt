@@ -1,0 +1,10 @@
+Proceso de instalacion (Integrante 3)
+- He creado install.php en /app
+    Este archivo utiliza las variables contenidas en config.php en /app para la localizacion y uso de la base de datos
+
+- Antes de ejecutar install.php debes modificar los valores de config.php:
+    - mvc_bd_hostname: Ubicacion de la base de datos;
+    - mvc_bd_nombre: Nombre de la base de datos a crear;
+    - mvc_bd_usuario: Nombre de la conexion;
+    - mvc_bd_clave: Contraseña de la conexion;
+    - mvc_bd_css: Ubicacion de la regla de estilo;
