@@ -1,0 +1,7 @@
+El trabajo ha ido correctamente. La base de datos se ha creado con las filas y los atributos que necesitan para trabajar.
+
+Integrante 1(Juan Luque): El trabajo engloba prácticamente todo lo que hemos visto en la asignatura de Despliegue durante el 1er trimestre, junto con los compañeros de grupo se nos ha hecho un trabajo ameno, de forma organizada y facilitando la manera de trabajar en un grupo de trabajo, conjuntamente para un mismo proyecto.
+
+Integrante 2(Enrique Molina): El trabajo ha sido satisfactorio, ya que nos ha ayudado a comprender tanto el front-end como el back-end de las aplicaciones webs y hemos estado más cerca de como se trabaja en el ambito empresarial. 
+
+Integrante 3(Miguel Angel Castañeda): Le parece estupendo el proyecto.
